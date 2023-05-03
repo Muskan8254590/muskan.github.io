@@ -1,6 +1,4 @@
-theme: jekyll-theme-minimal
-title: Muskan's homepage
-description: Bookmark this to keep an eye on my project updates!
+---
 title: Muskan.Github.Io
 timezone: UTC
 collections:
@@ -10,3 +8,5 @@ collections:
   uploads:
     title: Uploads
     output: true
+theme: jekyll-theme-minimal
+description: Bookmark this to keep an eye on my project updates!
