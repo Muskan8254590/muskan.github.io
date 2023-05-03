@@ -1,5 +1,6 @@
 ---
-title: Muskan.Github.Io
+title: Muskan.Github.io
+theme: jekyll-theme-minimal
 timezone: UTC
 collections:
   posts:
