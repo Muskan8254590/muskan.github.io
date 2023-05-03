@@ -1,5 +1,5 @@
 ---
-title: Muskan.Github.io
+title: Muskan.Github.Io
 timezone: UTC
 collections:
   posts:
@@ -8,4 +8,3 @@ collections:
   uploads:
     title: Uploads
     output: true
-theme: jekyll-theme-minimal
